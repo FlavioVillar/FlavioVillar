@@ -1,4 +1,4 @@
-### Hi 👋
+<img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="200" height="100" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 ### I'm Flavio Paiva villar
 ### I’m currently studying Software Development on Trybe  <img align="center" src=https://blog.betrybe.com/wp-content/uploads/2021/11/51808343.png width="30em"> 
 
