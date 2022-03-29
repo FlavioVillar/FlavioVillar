@@ -3,20 +3,13 @@
 ### I’m currently studying Software Development on Trybe  <img align="center" src=https://blog.betrybe.com/wp-content/uploads/2021/11/51808343.png width="30em"> 
 
 
+
 #### You can find me on <a href = "mailto:flaviopaivavillar@gmail.com"><img align="center" height="25em" alt="Gmail" src="https://seeklogo.com/images/G/gmail-logo-0B5D69FF48-seeklogo.com.png"></a>, or on <a href="https://www.linkedin.com/in/flaviopaivavillar/" target="_blank"><img align="center" alt="Linkedin" src="https://icongr.am/devicon/linkedin-original.svg?size=30em&color=currentColor" target="_blank"></a> 
 
  <hr>
 
-<div>
 
- <a href="https://github.com/FlavioVillar">
- <img height="160" src="https://github-readme-stats.vercel.app/api?username=FlavioVillar&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
- <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioVillar&layout=compact&langs_count=7&theme=dark"/>
-
-</div> <br>
-
-
-  
+ 
 <div style="display: inline_block">
  
   <hr>
