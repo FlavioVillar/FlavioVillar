@@ -6,7 +6,10 @@
 
 <h2>I'm Flavio Paiva villar</h2>
 
-<h3> I’m currently studying Software Development on Trybe  <img align="center" src=https://blog.betrybe.com/wp-content/uploads/2021/11/51808343.png width="30em"> </h3>
+<h3> Atualmente sou estudante de desenvolvimento web na Trybe <img align="center" src=https://blog.betrybe.com/wp-content/uploads/2021/11/51808343.png width="30em"> </h3>
+<h3> 
+Certicado como desenvolvedor Front-end e atualmente finalizando o aprendizado em Back-end.
+</h3>
 
 <h3> You can find me on <a href = "mailto:flaviopaivavillar@gmail.com"><img align="center" height="25em" alt="Gmail" src="https://seeklogo.com/images/G/gmail-logo-0B5D69FF48-seeklogo.com.png"></a>, or on <a href="https://www.linkedin.com/in/flaviopaivavillar/" target="_blank"><img align="center" alt="Linkedin" src="https://icongr.am/devicon/linkedin-original.svg?size=30em&color=currentColor" target="_blank"></a> </h3>
 
@@ -19,24 +22,32 @@
  
 <div style="display: inline_block" align="center"> 
   <hr>
+  
+   <img align="center" alt="JavaScript" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"> 
+  
+   <img align="center" alt="TypeScript" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"> 
 
    <img align="center" alt="HTML"  src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
 
-   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">  
+   <img align="center" alt="CSS" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">       
+  
+   <img align="center" alt="React" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"> 
+  
+   <img align="center" alt="Redux" height="55em" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
+  
+   <img align="center" alt="NodeJs" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"> 
+  
+   <img align="center" alt="Express" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"> 
+  
+   <img align="center" alt="MySQL" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> 
+  
+   <img align="center" alt="Docker" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"> 
 
-   <img align="center" alt="Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">  
-
-   <img align="center" alt="Jest" src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"> 
+   <img align="center" alt="Jest" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"> 
   
-   <img align="center" alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> 
+   <img align="center" alt="GitHub" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"> 
   
-   <img align="center" alt="GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"> 
-  
-   <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> 
-  
-   <img align="center" alt="React" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"> 
-  
-  <img align="center" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"> 
+   <img align="center" alt="GIT" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"> 
 
   <hr>
 </div>  
