@@ -1,17 +1,14 @@
 <div align="center" display="inline_block" >
 
 <kbd>
-  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="200" height="100" order-radius="50%"></img>
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="200" height="100"</img>
 </kbd>  
 
-<h2>I'm Flavio Paiva villar</h2>
+<h1>Olá, sou Flavio Paiva villar</h1>
 
-<h3> Atualmente sou estudante de desenvolvimento web na Trybe <img align="center" src=https://blog.betrybe.com/wp-content/uploads/2021/11/51808343.png width="30em"> </h3>
-<h3> 
-Certicado como desenvolvedor Front-end e atualmente finalizando o aprendizado em Back-end.
-</h3>
+ :technologist_light_skin_tone:  <h3>Atualmente sou estudante de desenvolvimento web na <em><strong>Trybe</strong></em> <img align="center" src=https://blog.betrybe.com/wp-content/uploads/2021/11/51808343.png width="30em">, <br> certicado como desenvolvedor Front-end e atualmente finalizando o aprendizado em Back-end.</h3>
 
-<h3> You can find me on <a href = "mailto:flaviopaivavillar@gmail.com"><img align="center" height="25em" alt="Gmail" src="https://seeklogo.com/images/G/gmail-logo-0B5D69FF48-seeklogo.com.png"></a>, or on <a href="https://www.linkedin.com/in/flaviopaivavillar/" target="_blank"><img align="center" alt="Linkedin" src="https://icongr.am/devicon/linkedin-original.svg?size=30em&color=currentColor" target="_blank"></a> </h3>
+<h4> Você pode entrar em contato pelo meu email <a href = "mailto:flaviopaivavillar@gmail.com"><img align="center" height="25em" alt="Gmail" src="https://seeklogo.com/images/G/gmail-logo-0B5D69FF48-seeklogo.com.png"></a>, ou pelo meu <a href="https://www.linkedin.com/in/flaviopaivavillar/" target="_blank"><img align="center" alt="Linkedin" src="https://icongr.am/devicon/linkedin-original.svg?size=30em&color=currentColor" target="_blank"></a> </h4>
 
  <hr>
 
@@ -48,7 +45,7 @@ Certicado como desenvolvedor Front-end e atualmente finalizando o aprendizado em
    <img align="center" alt="GitHub" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"> 
   
    <img align="center" alt="GIT" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"> 
-
+   
   <hr>
 </div>  
 
