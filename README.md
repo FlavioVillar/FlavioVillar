@@ -20,9 +20,7 @@
 <div style="display: inline_block" align="center"> 
   <hr>
   
-   <img align="center" alt="JavaScript" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"> 
-  
-   <img align="center" alt="TypeScript" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"> 
+   <img align="center" alt="JavaScript" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg">    
 
    <img align="center" alt="HTML"  src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
 
@@ -37,6 +35,8 @@
    <img align="center" alt="Express" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"> 
   
    <img align="center" alt="MySQL" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> 
+   
+   <img align="center" alt="TypeScript" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"> 
   
    <img align="center" alt="Docker" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"> 
 
