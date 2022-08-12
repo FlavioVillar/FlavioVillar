@@ -19,32 +19,34 @@
  
 <div style="display: inline_block" align="center"> 
   <hr>
-  
-   <img align="center" alt="JavaScript" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg">    
-
-   <img align="center" alt="HTML"  src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg">
-
-   <img align="center" alt="CSS" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg">       
-  
-   <img align="center" alt="React" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"> 
-  
-   <img align="center" alt="Redux" height="55em" src="https://cdn.worldvectorlogo.com/logos/redux.svg">
-  
-   <img align="center" alt="NodeJs" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"> 
-  
-   <img align="center" alt="Express" src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg"> 
-  
-   <img align="center" alt="MySQL" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> 
+   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-222222?style=plastic&logo=javascript">  
    
-   <img align="center" alt="TypeScript" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"> 
-  
-   <img align="center" alt="Docker" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"> 
+   <img align="center" alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-222222?style=plastic&logo=typescript"> 
 
-   <img align="center" alt="Jest" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"> 
+   <img align="center" alt="HTML"  src="https://img.shields.io/badge/-HTML5-222222?style=plastic&logo=html5">
+   
+   <img align="center" alt="CSS"  src="https://img.shields.io/badge/-CSS-222222?style=plastic&logo=css3&logoColor=146EB0">   
   
-   <img align="center" alt="GitHub" src="https://www.vectorlogo.zone/logos/github/github-icon.svg"> 
+   <img align="center" alt="React" src="https://img.shields.io/badge/-React-222222?style=plastic&logo=React"> 
+   
+   <img align="center" alt="Redux" src="https://img.shields.io/badge/-Redux-222222?style=plastic&logo=Redux&logoColor=7248B6"> 
+ 
+   <img align="center" alt="NodeJs" src="https://img.shields.io/badge/-Node.js-222222?style=plastic&logo=node.js&logoColor=339933"> 
   
-   <img align="center" alt="GIT" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"> 
+   <img align="center" alt="Express" src="https://img.shields.io/badge/-Express-222222?style=plastic&logo=Express"> 
+   
+   <img align="center" alt="SQL" src="https://img.shields.io/badge/-SQL-222222?style=plastic&logo=postgresql"> 
+   
+   <img align="center" alt="MySQL" src="https://img.shields.io/badge/-MySQL-222222?style=plastic&logo=MySQL">    
+   
+   <img align="center" alt="Docker" src="https://img.shields.io/badge/-Docker-222222?style=plastic&logo=Docker"> 
+
+   <img align="center" alt="Jest" src="https://img.shields.io/badge/-Jest-222222?style=plastic&logo=Jest&logoColor=944058">    
+   
+   <img align="center" alt="Mocha" src="https://img.shields.io/badge/-Mocha-222222?style=plastic&logo=Mocha"> 
+   
+   <img align="center" alt="GIT" src="https://img.shields.io/badge/-Git-222222?style=plastic&logo=git&logoColor=F05032">   
+   
    
   <hr>
 </div>  
