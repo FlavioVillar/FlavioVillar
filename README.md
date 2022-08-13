@@ -9,10 +9,16 @@
   <h4>Já certicado como desenvolvedor Front-end e finalizando o aprendizado em Back-end.</h4>
 </div>
 
+
+
+<p align="center"> Acredito que com minha capacidade de comunicação e organização, sempre focado em resolução de problemas e com visão analítica, posso integrar com a tecnologia uma visão de negócio, possibilitando uma melhor entrega ao cliente. </p>
+ 
+<hr>
+
 <div align="center">
  <h4> Você pode entrar em contato pelo meu email <a href = "mailto:flaviopaivavillar@gmail.com"><img align="center" alt="Gmail" src="https://img.shields.io/badge/-flavio_villar@hotmail.com-333333?style=social&logo=Gmail"></a>, ou pelo meu <a href="https://www.linkedin.com/in/flaviopaivavillar/" target="_blank"><img align="center" alt="Linkedin" src="https://img.shields.io/badge/-Flavio Paiva Villar-222222?style=social&logo=Linkedin"></a> </h4>
 </div>
- 
+
 <hr>
 
 <div align="center">
@@ -22,7 +28,6 @@
 </div>
 
 
- 
 <div style="display: inline_block" align="center">
  <hr>
   <img align="center" height="25" alt="JavaScript"  src="https://img.shields.io/static/v1?message=JavaScript&logo=JavaScript&labelColor=333333&color=F7DF1E&logoColor=F7DF1E&label=%20&style=flat">
