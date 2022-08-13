@@ -1,10 +1,6 @@
 
-<div>
- <div height="500" border="10">
-  <img width="200" height="100" align='right' src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" >
- </div>
-  <br />
-   <h1 align="center">Olá, sou Flavio Paiva villar!!!</h1> 
+<div align="center">
+  <h1> <img width="125" height="65" src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif"> Olá, sou Flavio Paiva villar!!! </h1> 
 </div>
 
 
@@ -13,8 +9,9 @@
   <h4>Já certicado como desenvolvedor Front-end e finalizando o aprendizado em Back-end.</h4>
 </div>
 
-<h4> Você pode entrar em contato pelo meu email <a href = "mailto:flaviopaivavillar@gmail.com"><img align="center" alt="Gmail" src="https://img.shields.io/badge/-flavio_villar@hotmail.com-333333?style=social&logo=Gmail"></a>, ou pelo meu <a href="https://www.linkedin.com/in/flaviopaivavillar/" target="_blank"><img align="center" alt="Linkedin" src="https://img.shields.io/badge/-Flavio Paiva Villar-222222?style=social&logo=Linkedin"></a> </h4>
-
+<div align="center">
+ <h4> Você pode entrar em contato pelo meu email <a href = "mailto:flaviopaivavillar@gmail.com"><img align="center" alt="Gmail" src="https://img.shields.io/badge/-flavio_villar@hotmail.com-333333?style=social&logo=Gmail"></a>, ou pelo meu <a href="https://www.linkedin.com/in/flaviopaivavillar/" target="_blank"><img align="center" alt="Linkedin" src="https://img.shields.io/badge/-Flavio Paiva Villar-222222?style=social&logo=Linkedin"></a> </h4>
+</div>
  
 <hr>
 
