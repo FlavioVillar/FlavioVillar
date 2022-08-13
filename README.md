@@ -1,20 +1,27 @@
+
+<div>
+ <div height="500" border="10">
+  <img width="200" height="100" align='right' src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" >
+ </div>
+    <br />
+     <h1 align="center">Olá, sou Flavio Paiva villar!!!</h1> 
+    <br />
+     <h3 align="center"> 🧑🏻‍💻 Atualmente sou estudante de desenvolvimento web na <em><strong>Trybe</strong></em> <img align="center" src=https://blog.betrybe.com/wp-content/uploads/2021/11/51808343.png width="30em"></h3>
+    <br />
+</div>
+
+
+
+
+
 <div align="center">
-  
 
-<kbd>
-  <kbd>
-  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="200" height="100"</img>
-</kbd>  
-
-<h1>Olá, sou Flavio Paiva villar</h1>
-
-<h3> 🧑🏻‍💻 Atualmente sou estudante de desenvolvimento web na <em><strong>Trybe</strong></em> <img align="center" src=https://blog.betrybe.com/wp-content/uploads/2021/11/51808343.png width="30em">, <br> certicado como desenvolvedor Front-end e atualmente finalizando o aprendizado em Back-end.</h3>
+</div>
+      Já certicado como desenvolvedor Front-end e finalizando o aprendizado em Back-end.
 
 <h4> Você pode entrar em contato pelo meu email <a href = "mailto:flaviopaivavillar@gmail.com"><img align="center" height="25em" alt="Gmail" src="https://seeklogo.com/images/G/gmail-logo-0B5D69FF48-seeklogo.com.png"></a>, ou pelo meu <a href="https://www.linkedin.com/in/flaviopaivavillar/" target="_blank"><img align="center" alt="Linkedin" src="https://icongr.am/devicon/linkedin-original.svg?size=30em&color=currentColor" target="_blank"></a> </h4>
-  
-  </kbd>  
 
- <hr>
+<hr>
 
 <a href="https://github.com/FlavioVillar">
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlavioVillar&layout=compact&langs_count=7&theme=dark"/>
@@ -57,3 +64,8 @@
 
  <img align="center" alt="Csharp" height="20" width="100" src="https://komarev.com/ghpvc/?username=FlavioVillar&color=green" alt="FlavioVillar" /> <br>
 </div> 
+
+
+ <kbd>
+  <img src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif" width="200" height="100"</img>
+ </kbd>  
