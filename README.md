@@ -9,7 +9,7 @@
      <h3 align="center"> 🧑🏻‍💻 Atualmente sou estudante de desenvolvimento web na <em><strong>Trybe</strong></em> <img align="center" src=https://blog.betrybe.com/wp-content/uploads/2021/11/51808343.png width="30em"></h3>
     <br />
  
-       Já certicado como desenvolvedor Front-end e finalizando o aprendizado em Back-end.
+Já certicado como desenvolvedor Front-end e finalizando o aprendizado em Back-end.
 
 <h4> Você pode entrar em contato pelo meu email <a href = "mailto:flaviopaivavillar@gmail.com"><img align="center" alt="Gmail" src="https://img.shields.io/badge/-Flavio Paiva villar-222222?style=social&logo=Gmail"></a>, ou pelo meu <a href="https://www.linkedin.com/in/flaviopaivavillar/" target="_blank"><img align="center" alt="Linkedin" src="https://img.shields.io/badge/-Flavio Paiva villar-222222?style=social&logo=Linkedin"></a> </h4>
 
@@ -54,7 +54,7 @@
    
    <img align="center" height="20" alt="Mocha" src="https://img.shields.io/badge/-Mocha-222222?style=plastic&logo=Mocha"> 
    
-   <img align="center" height="20"alt="GIT" src="https://img.shields.io/badge/-Git-222222?style=plastic&logo=git&logoColor=F05032">   
+   <img align="center" height="20" width="50" alt="GIT" src="https://img.shields.io/badge/-Git-222222?style=plastic&logo=git&logoColor=F05032"> 
      
   <hr>
 </div> 
