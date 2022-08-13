@@ -26,35 +26,35 @@ Já certicado como desenvolvedor Front-end e finalizando o aprendizado em Back-e
 
 
  
-<div style="display: inline_block" align="center"> 
-  <hr>
-   <img align="center" height="20" alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-222222?style=plastic&logo=javascript">  
+<div style="display: inline_block" align="center"> JavaScript
+ <hr>
+  <img align="center" height="25" alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-333333?style=?style=flat&logo=JavaScript">
    
-   <img align="center" height="20" alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-222222?style=plastic&logo=typescript"> 
-
-   <img align="center" height="20" alt="HTML"  src="https://img.shields.io/badge/-HTML5-222222?style=plastic&logo=html5">
-   
-   <img align="center" height="20" alt="CSS"  src="https://img.shields.io/badge/-CSS-222222?style=plastic&logo=css3&logoColor=146EB0">   
-  
-   <img align="center" height="20" alt="React" src="https://img.shields.io/badge/-React-222222?style=plastic&logo=React"> 
-   
-   <img align="center" height="20" alt="Redux" src="https://img.shields.io/badge/-Redux-222222?style=plastic&logo=Redux&logoColor=7248B6"> 
+  <img align="center" height="25" alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-333333?style=?style=flat&logo=typescript"> 
  
-   <img align="center" height="20" alt="NodeJs" src="https://img.shields.io/badge/-Node.js-222222?style=plastic&logo=node.js&logoColor=339933"> 
+  <img align="center" height="25" alt="HTML" src="https://img.shields.io/badge/-HTML5-333333?style=?style=flat&logo=HTML5">
+   
+   <img align="center" height="25" alt="CSS"  src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3&logoColor=146EB0">   
   
-   <img align="center" height="20" alt="Express" src="https://img.shields.io/badge/-Express-222222?style=plastic&logo=Express"> 
+   <img align="center" height="25" alt="React" src="https://img.shields.io/badge/-React-333333?style=flat&logo=React"> 
    
-   <img align="center" height="20" alt="SQL" src="https://img.shields.io/badge/-SQL-222222?style=plastic&logo=postgresql"> 
+   <img align="center" height="25" alt="Redux" src="https://img.shields.io/badge/-Redux-333333?style=flat&logo=Redux&logoColor=7248B6"> 
+ 
+   <img align="center" height="25" alt="NodeJs" src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js&logoColor=339933"> 
+  
+   <img align="center" height="25" alt="Express" src="https://img.shields.io/badge/-Express-333333?style=flat&logo=Express"> 
    
-   <img align="center" height="20" alt="MySQL" src="https://img.shields.io/badge/-MySQL-222222?style=plastic&logo=MySQL">    
+   <img align="center" height="25" alt="SQL" src="https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql"> 
    
-   <img align="center" height="20" alt="Docker" src="https://img.shields.io/badge/-Docker-222222?style=plastic&logo=Docker"> 
+   <img align="center" height="25" alt="MySQL" src="https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL">    
+   
+   <img align="center" height="25" alt="Docker" src="https://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker"> 
 
-   <img align="center" height="20" alt="Jest" src="https://img.shields.io/badge/-Jest-222222?style=plastic&logo=Jest&logoColor=944058">    
+   <img align="center" height="25" alt="Jest" src="https://img.shields.io/badge/-Jest-333333?style=flat&logo=Jest&logoColor=944058">    
    
-   <img align="center" height="20" alt="Mocha" src="https://img.shields.io/badge/-Mocha-222222?style=plastic&logo=Mocha"> 
+   <img align="center" height="25" alt="Mocha" src="https://img.shields.io/badge/-Mocha-333333?style=flat&logo=Mocha"> 
    
-   <img align="center" height="20" width="50" alt="GIT" src="https://img.shields.io/badge/-Git-222222?style=plastic&logo=git&logoColor=F05032"> 
+   <img align="center" height="25" width="50" alt="GIT" src="https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032"> 
      
   <hr>
 </div> 
