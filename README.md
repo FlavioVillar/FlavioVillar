@@ -1,18 +1,28 @@
 
 <div align="center">
-  <h1> <img width="125" height="65" src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif"> Olá, sou Flavio Paiva villar!!! </h1> 
+  <h1> <img width="150" height="85" src="https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif"> Olá, sou Flavio Paiva villar!!! </h1> 
 </div>
 
 
 <div align="center">
- <h3> 🧑🏻‍💻 Atualmente sou estudante de Desenvolvimento Web Full Stack na <em><strong>Trybe</strong></em> <img align="top" src=https://blog.betrybe.com/wp-content/uploads/2021/11/51808343.png width="20">,</h3>
-  <h4>Já certicado como desenvolvedor Front-end e finalizando o aprendizado em Back-end.</h4>
+ <h3> 🧑🏻‍💻 Atualmente sou estudante de Desenvolvimento Web Full Stack na <em><strong>Trybe</strong></em> <img align="top" src=https://blog.betrybe.com/wp-content/uploads/2021/11/51808343.png width="20"></h3>
+  <h4>Já certificado como desenvolvedor Front-end e finalizando o aprendizado em Back-end.</h4>
 </div>
 
 
 
-<p align="center"> Acredito que com minha capacidade de comunicação e organização, sempre focado em resolução de problemas e com visão analítica, posso integrar com a tecnologia uma visão de negócio, possibilitando uma melhor entrega ao cliente. </p>
- 
+     🏠 Moro em São Paulo - Brasil.
+     
+     💻 Acredito que para uma melhor entrega ao cliente, tecnologia tem que estar integrada com visão de negócio.
+     
+     🗣️ Gosto de me comunicar e interagir com outras pessoas. 
+     
+     🕵️ Sempre focado em resolução de problemas e com visão analítica.
+     
+     🧳 Adoro viajar e conhecer novas culturas.
+     
+     🎓 Gosto de aprender e descobri na tecnologia a oportunidade do aprendizado constante e um estudo contínuo para 
+        se manter atualizado na área.
 <hr>
 
 <div align="center">
@@ -29,7 +39,10 @@
 
 
 <div style="display: inline_block" align="center">
+
  <hr>
+ <h2>𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸</h2>
+ 
   <img align="center" height="25" alt="JavaScript"  src="https://img.shields.io/static/v1?message=JavaScript&logo=JavaScript&labelColor=333333&color=F7DF1E&logoColor=F7DF1E&label=%20&style=flat">
    
   <img align="center" height="25" alt="HTML"  src="https://img.shields.io/static/v1?message=HTML&logo=HTML5&labelColor=333333&color=E34F26&logoColor=E34F26&label=%20&style=flat">
