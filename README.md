@@ -26,7 +26,7 @@
 <hr>
 
 <div align="center">
- <h4> Você pode entrar em contato pelo meu email <a href = "mailto:flaviopaivavillar@gmail.com"><img align="center" height="25" alt="Gmail" src="https://img.shields.io/badge/-flaviopaivavillar@gmail.com-333333?style=social&logo=Gmail"></a>, ou pelo meu <a href="https://www.linkedin.com/in/flaviopaivavillar/" target="_blank"><img align="center" height="25" alt="Linkedin" src="https://img.shields.io/badge/-Flavio Paiva Villar-222222?style=social&logo=Linkedin"></a> </h4>
+ <h4> Você pode entrar em contato pelo meu email <a href = "mailto:flaviopaivavillar@gmail.com"><img align="center" height="20" alt="Gmail" src="https://img.shields.io/badge/-flaviopaivavillar@gmail.com-333333?style=social&logo=Gmail"></a>, ou pelo meu <a href="https://www.linkedin.com/in/flaviopaivavillar/" target="_blank"><img align="center" height="20" alt="Linkedin" src="https://img.shields.io/badge/-Flavio Paiva Villar-222222?style=social&logo=Linkedin"></a> </h4>
 </div>
 
 <hr>
