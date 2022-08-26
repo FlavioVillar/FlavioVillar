@@ -11,18 +11,17 @@
 
 
 
-     🏠 Moro em São Paulo - Brasil.
+  🏠 Moro em São Paulo - Brasil.
      
-     💻 Acredito que para uma melhor entrega ao cliente, tecnologia tem que estar integrada com visão de negócio.
+  💻 Acredito que para uma melhor entrega ao cliente, tecnologia tem que estar integrada com visão de negócio.
      
-     🗣️ Gosto de me comunicar e interagir com outras pessoas. 
+  🗣️ Gosto de me comunicar e interagir com outras pessoas. 
      
-     🕵️ Sempre focado em resolução de problemas e com visão analítica.
+  🕵️ Sempre focado em resolução de problemas e com visão analítica.
      
-     🧳 Adoro viajar e conhecer novas culturas.
+  🧳 Adoro viajar e conhecer novas culturas.
      
-     🎓 Gosto de aprender e descobri na tecnologia a oportunidade do aprendizado constante e um estudo contínuo para 
-        se manter atualizado na área.
+  🎓 Gosto de aprender e descobri na tecnologia a oportunidade do aprendizado constante e um estudo contínuo para se manter atualizado na área.
 <hr>
 
 <div align="center">
