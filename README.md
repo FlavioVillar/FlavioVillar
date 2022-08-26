@@ -5,7 +5,7 @@
 
 
 <div align="center">
- <h3> 🧑🏻‍💻 Atualmente sou estudante de Desenvolvimento Web Full Stack na <em><strong>Trybe</strong></em> <img align="top" src=https://blog.betrybe.com/wp-content/uploads/2021/11/51808343.png width="20"></h3>
+ <h3> 🧑🏻‍💻 Sou Desenvolvedor Web Full Stack, formado na <em><strong>Trybe</strong></em> <img align="top" src=https://blog.betrybe.com/wp-content/uploads/2021/11/51808343.png width="20"></h3>
   <h4>Já certificado como desenvolvedor Front-end e finalizando o aprendizado em Back-end.</h4>
 </div>
 
